@@ -1,0 +1,46 @@
+<persons>
+    <person>
+        <id>1</id>
+        <name>Ionut Popescu</name>
+        <town>Bucuresti</town>
+        <contact>
+            <address>Calea Vacaresti 23, bl.103A, sc. 1, ap. 43</address>
+            <telephone>0733.333.334</telephone>
+            <email>ionut.popescu@gmail.com</email>
+            <skype>ionut.popescu@skype.net</skype>
+        </contact>
+    </person>
+     <person>
+        <id>2</id>
+        <name>Mioara Dumitrescu</name>
+        <town>Arad</town>
+        <contact>
+            <address>Strada Panselutelor, casa nr. 13</address>
+            <telephone>0731.111.299</telephone>
+            <email>mioara.dumitrescu54@gmail.com</email>
+            <skype>mioara.dumitrescu@skype.net</skype>
+        </contact>
+    </person>
+     <person>
+        <id>3</id>
+        <name>Dan Radulescu</name>
+        <town>Suceava</town>
+        <contact>
+            <address>Strada Zorilor 81, bl. 3A, sc. 3, ap. 15</address>
+            <telephone>021.322.35.35</telephone>
+            <email>dan.radulescu@gmail.com</email>
+            <skype>dan.radulescu@skype.net</skype>
+        </contact>
+    </person>
+     <person>
+        <id>4</id>
+        <name>Alexandru Nitu</name>
+        <town>Timisoara</town>
+        <contact>
+            <address>Strada Stefan cel Mare, nr. 121, bl. 105B, sc. A, ap. 48</address>
+            <telephone>0771.112.233</telephone>
+            <email>alex_nitu_34@yahoo.com</email>
+            <skype>alex.nitu@skype.net</skype>
+        </contact>
+    </person>
+</persons>

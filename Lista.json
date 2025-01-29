@@ -1,0 +1,39 @@
+{
+"persons": {
+    "ID":"1",
+    "name":"Ionut Popescu",
+    "town":"Bucuresti",
+    "address":"Calea Vacaresti 23, bl.103A, sc. 1, ap. 43",
+    "telephone":"0733.333.334",
+    "email":"ionut.popescu@gmail.com",
+    "skype":"ionut.popescu@skype.net"
+},
+{
+    "ID":"2",
+    "name":"Mioara Dumitrescu",
+    "town":"Arad",
+    "address":"Strada Panselutelor, casa nr. 13",
+    "telephone":"0731.111.299",
+    "email":"mioara.dumitrescu54@gmail.com",
+    "skype":"mioara.dumitrescu@skype.net"
+},
+{
+    "ID":"3",
+    "name":"Dan Radulescu",
+    "town":"Suceava",
+    "address":"Strada Zorilor 81, bl. 3A, sc. 3, ap. 15",
+    "telephone":"021.322.35.35",
+    "email":"dan.radulescu@gmail.com",
+    "skype":"dan.radulescu@skype.net"
+},  
+{
+    "ID":"4",
+    "name":"Alexandru Nitu",
+    "town":"Timisoara",
+    "address":"Strada Stefan cel Mare, nr. 121, bl. 105B, sc. A, ap. 48",
+    "telephone":"0771.112.233",
+    "email":"alex_nitu_34@yahoo.com",
+    "skype":"alex.nitu@skype.net"
+}    
+}
+
